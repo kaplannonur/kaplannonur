@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Onur Kaplan
 
-<!--
-**kaplannonur/kaplannonur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Frontend Developer & Creative Thinker  
+🚀 Building UI interfaces, React projects, and modern websites  
+💼 Founder @ [Dijivibe](https://instagram.com/dijivibe)  
+📍 Based in Türkiye  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Working On
+•⁠  ⁠Kendi portföy sitem (onurkaplan.dev)
+•⁠  ⁠Oyuncular için web profilleri
+•⁠  ⁠React projeleriyle kendimi geliştirme
+
+## 📫 Reach Me
+•⁠  ⁠📩 kaplannonur01@gmail.com  
+•⁠  ⁠📷 [Instagram: @kaplann_onur](https://instagram.com/kaplann_onur)
