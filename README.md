@@ -1,26 +1,26 @@
 <h1 align="center">Hey, I'm Onur Kaplan 👋</h1>
 <p align="center">
-  Frontend Developer · Creative Thinker · Founder @ <a href="https://instagram.com/dijivibe">Dijivibe</a><br/>
-  Passionate about clean UI, modern web design, and creative digital solutions.
+  Frontend & Full-Stack Developer · Creative Thinker · Founder @ <a href="https://instagram.com/dijivibe">Dijivibe</a><br/>
+  Passionate about clean UI, modern web design, and digital problem-solving.
 </p>
 
 ---
 
 ### 🧠 About Me
 
-•⁠  ⁠💻 I design and build modern websites with *HTML, **CSS, **JavaScript, and **React*  
-•⁠  ⁠🧩 I love solving design + code problems  
-•⁠  ⁠🌱 Currently learning advanced *React* & *Next.js*  
-•⁠  ⁠🎯 Building mini projects & portfolio templates — especially for *artists and creators*  
-•⁠  ⁠📍 Based in Turkey  
+•⁠  ⁠💻 I design and build modern web apps with *Next.js, **TypeScript, and **TailwindCSS*
+•⁠  ⁠⚙️ Learning full-stack development with *Node.js, **MongoDB, and **API routes*
+•⁠  ⁠🎯 Focused on building tools for *creators, artists and freelancers*
+•⁠  ⁠🧩 Obsessed with UX details, clean code and component architecture
+•⁠  ⁠📍 Based in Turkey
 
 ---
 
 ### 🚀 Current Projects
 
-•⁠  ⁠🎭 ⁠ oyuncu-profil-template ⁠ → Web site for actors  
-•⁠  ⁠🖥️ ⁠ onurkaplan.dev ⁠ → My personal website (coming soon!)  
-•⁠  ⁠🧪 ⁠ react-sandbox ⁠ → Testing UI/UX concepts with React
+•⁠  ⁠🎭 ⁠ oyuncu-profil-template ⁠ → Web showcase for actors  
+•⁠  ⁠🖥️ ⁠ onurkaplan.dev ⁠ → Personal site (Next.js + Tailwind)  
+•⁠  ⁠🔐 ⁠ auth-starter ⁠ → Full-stack boilerplate with NextAuth.js
 
 ---
 
@@ -34,9 +34,9 @@
 
 ---
 
-### 🛠️ Tools I Use
+### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,figma,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,tailwind,vscode,github" />
 </p>
 
 ---
@@ -52,5 +52,5 @@
 
 ### ☕ Fun Fact
 
-	⁠I started coding to build better digital tools for artists and creators.
-	⁠Now I'm building my own journey — one pixel at a time.
+	⁠I started coding to build better digital tools for creators.  
+	⁠Now I'm building my own journey — one commit at a time.
