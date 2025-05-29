@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Onur Kaplan 👋</h1>
 <p align="center">
-  Frontend & Full-Stack Developer · Creative Thinker · Founder @ <a href="https://instagram.com/dijivibe">Dijivibe</a><br/>
+  Frontend & Full-Stack Developer · Creative Thinker · Founder @ <a href="https://instagram.com/dijivibecreative">Dijivibe</a><br/>
   Passionate about clean UI, modern web design, and digital problem-solving.
 </p>
 
