@@ -1,47 +1,48 @@
-<h1 align="center">Hey, I'm Onur Kaplan 👋</h1>
+<h1 align="center">Merhaba, ben Onur Kaplan 👋</h1>
 <p align="center">
-  Frontend & Full-Stack Developer · Creative Thinker · Founder @ <a href="https://instagram.com/dijivibecreative">Dijivibe</a><br/>
-  Passionate about clean UI, modern web design, and digital problem-solving.
+  Frontend & Full-Stack Geliştirici · Yaratıcı Zihin · <a href="https://instagram.com/dijivibecreative">Dijivibe</a> Kurucusu<br/>
+  Temiz arayüzler, modern web tasarımı ve dijital çözümler üretmeyi seviyorum.
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧠 Hakkımda
 
-•⁠  ⁠💻 I design and build modern web apps with *Next.js, **TypeScript, and **TailwindCSS*
-•⁠  ⁠⚙️ Learning full-stack development with *Node.js, **MongoDB, and **API routes*
-•⁠  ⁠🎯 Focused on building tools for *creators, artists and freelancers*
-•⁠  ⁠🧩 Obsessed with UX details, clean code and component architecture
-•⁠  ⁠📍 Based in Turkey
-
----
-
-### 🚀 Current Projects
-
-•⁠  ⁠🎭 ⁠ oyuncu-profil-template ⁠ → Web showcase for actors  
-•⁠  ⁠🖥️ ⁠ onurkaplan.dev ⁠ → Personal site (Next.js + Tailwind)  
-•⁠  ⁠🔐 ⁠ auth-starter ⁠ → Full-stack boilerplate with NextAuth.js
+•⁠  ⁠💻 *Next.js, **TypeScript* ve *TailwindCSS* ile modern web uygulamaları geliştiriyorum  
+•⁠  ⁠⚙️ Full-stack tarafında *Node.js, **MongoDB* ve API geliştirme konularında kendimi geliştiriyorum  
+•⁠  ⁠🎯 Hedefim: Sanatçılar, freelancerlar ve üreticiler için faydalı dijital araçlar oluşturmak  
+•⁠  ⁠🧩 Kullanıcı deneyimi, bileşen yapısı ve sade kod konusunda takıntılıyım  
+•⁠  ⁠📍 Türkiye'de yaşıyorum
 
 ---
 
-### 📫 Reach Me
+### 🚀 Aktif Projeler
+
+•⁠  ⁠🎭 ⁠ oyuncu-profil-template ⁠ → Oyuncular için dijital vitrin sitesi  
+•⁠  ⁠🖥️ ⁠ onurkaplan.dev ⁠ → Kişisel sitem (Next.js + TailwindCSS)  
+•⁠  ⁠🔐 ⁠ auth-starter ⁠ → Giriş sistemli full-stack başlangıç projesi
+
+---
+
+### 📫 Bana Ulaş
 
 <p>
   <a href="mailto:kaplannonur01@gmail.com"><img src="https://img.shields.io/badge/Email-kaplannonur01@gmail.com-blue?style=flat&logo=gmail" /></a>
-  <a href="https://instagram.com/kaplann_onur"><img src="https://img.shields.io/badge/Instagram-@kaplann__onur-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://instagram.com/dijivibe"><img src="https://img.shields.io/badge/Dijivibe-Instagram-833AB4?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/kaplann_onur"><img src="https://img.shields.io/badge/Instagram-@kaplann_onur-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/dijivibecreative"><img src="https://img.shields.io/badge/Dijivibe-Instagram-833AB4?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Kullandığım Teknolojiler
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,tailwind,vscode,github" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub İstatistikleri
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaplannonur&show_icons=true&theme=radical" width="47%" />
@@ -50,7 +51,7 @@
 
 ---
 
-### ☕ Fun Fact
+### ☕ Küçük Bir Not
 
-	⁠I started coding to build better digital tools for creators.  
-	⁠Now I'm building my own journey — one commit at a time.
+	⁠Yazılıma, sanatçılar ve üreticiler için daha iyi dijital çözümler üretmek amacıyla başladım.  
+	⁠Şimdi kendi yolculuğumu kodlarla inşa ediyorum.
