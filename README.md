@@ -40,10 +40,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kaplannonur&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaplannonur&theme=radical" width="47%"/>
 </p>
-
----
-
-### ☕ Küçük Bir Not
-
-	⁠Yazılıma, sanatçılar ve üreticiler için daha iyi dijital çözümler üretmek amacıyla başladım.  
-	⁠Şimdi kendi yolculuğumu kodlarla inşa ediyorum.
