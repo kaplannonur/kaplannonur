@@ -16,14 +16,6 @@
 
 ---
 
-### 🚀 Aktif Projeler
-
-•⁠  ⁠🎭 ⁠ oyuncu-profil-template ⁠ → Oyuncular için dijital vitrin sitesi  
-•⁠  ⁠🖥️ ⁠ onurkaplan.dev ⁠ → Kişisel sitem (Next.js + TailwindCSS)  
-•⁠  ⁠🔐 ⁠ auth-starter ⁠ → Giriş sistemli full-stack başlangıç projesi
-
----
-
 ### 📫 Bana Ulaş
 
 <p>
